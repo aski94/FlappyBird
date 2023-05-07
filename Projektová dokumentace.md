@@ -1,10 +1,10 @@
 # Co aplikace/hra/bot dělá:
 
-- ### Tato hra je projekt založený na klasické hře Flappy Bird, kterou vytvořil Dong Nguyen v roce 2013 během pouhých tří dnů. Flappy Bird se stala velmi populární díky své jednoduchosti a návykovosti
+- ### Tato hra je projekt založený na klasické hře Flappy Bird, kterou vytvořil Dong Nguyen v roce 2013 během pouhých tří dnů, Flappy Bird se stal velmi populární díky své jednoduchosti a návykovosti
 - ### Hlavním účelem této hry je nabídnout hráčům zábavu a možnost zkrácení dlouhých chvil, kdy je potřeba se nějak odreagovat
-- ### Hráč se v této hře stane ptákem jménem Faby, který se musí pohybovat vertikálně a vyhýbat se různým překážkám, zejména trubkám. Hráči musí používat své reflexy a koordinaci rukou a očí, aby se vyhnuli překážkám a pokračovali v hře
-- ### Hra je navržena tak, aby byla nekonečná. To znamená, že hráč může hrát tak dlouho, jak chce, a jeho skóre se bude neustále zvyšovat s každou překonanou překážkou
-- ### Cílem hry je samozřejmě co nejdéle přežít a proletět co nejvíce trubkami. Po smrti se hráči ukáže jejich nejlepší dosažené skóre, což může hráče motivovat k dalšímu pokusu o překonání svého osobního rekordu
+- ### Hráč se v této hře stane ptákem jménem Faby, který se musí pohybovat vertikálně a vyhýbat se překážkám (trubk8m a podlaze), hráči musí používat své reflexy a koordinaci rukou a očí, aby se vyhnuli překážkám a pokračovali ve hře
+- ### Hra je navržena tak, aby byla nekonečná, to znamená, že hráč může hrát tak dlouho, jak chce a jeho skóre se bude neustále zvyšovat s každou překonanou překážkou
+- ### Cílem hry je samozřejmě co nejdéle přežít a proletět co nejvíce trubkami, po smrti se hráči ukáže jeho nejlepší dosažené skóre, což může hráče motivovat k dalšímu pokusu o překonání svého osobního rekordu
 
  # Popis použitých technologií
  
