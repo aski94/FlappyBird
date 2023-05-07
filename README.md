@@ -1,3 +1,11 @@
-## FlappyBird
-- ### Mým cílem je vytvořit 2D hru, která bude reolikou mobilní hry flappy bird  
-- ### Hru budu vytvářet pomocí unity a k programování budu používat C#
+## Název Projektu:
+# FlappyBird
+
+## Cíl Projektu:
+- ### Mým cílem je vytvořit 2D hru, která bude replikou mobilní hry flappy bird
+
+## Zvolené technologie:
+- ### Hru budu vytvářet pomocí unity, takže k programování budu využívat C#
+
+## předpokládaná náročnost:
+- ### Předpokládám, že mi projekt zabere 10-15 hodin, jelikož se nejdříve musím naučit, jak programovat pomocí Unity
