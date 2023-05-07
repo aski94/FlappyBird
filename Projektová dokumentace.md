@@ -23,7 +23,7 @@
  ## Návod na použití projektu
 - ### Nejdřív si vybereme verzi a stáhneme projekt z githubu v sekci releases
 - ### Repozitář si extrahujem a otevřem vybraný build
-- ### Po spuštění programu stačí pouze zmáčknout mezerník, kterým se hra ovládá a být co nejlepší!
+- ### Po spuštění programu stačí pouze zmáčknout mezerník, kterým se hra ovládá a nyní musíte být co nejlepší!
 
  ## Možný rozvoj v budoucnu/popis reálného využití projektu
 - ### Flappy Bird je velmi jednoduchý a uzavřený koncept, takže pro rozvoj by byl nejlepší nový herní mód jako třeba že by pták neletěl do strany ale padal dolů, přitom co by se pořád vyhýbal trubkám
