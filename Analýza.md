@@ -7,5 +7,5 @@
 ## Zvolené technologie:
 - ### Hru budu vytvářet pomocí unity, takže k programování budu využívat C#
 
-## předpokládaná náročnost:
+## Předpokládaná náročnost:
 - ### Předpokládám, že mi projekt zabere 10-15 hodin, jelikož se nejdříve musím naučit, jak programovat pomocí Unity
